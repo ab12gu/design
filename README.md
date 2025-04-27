@@ -4,5 +4,7 @@ design notes for blog
 
 # Hyperlinks
 
-Adobe color - recommended by eva
+Adobe color 
+
+- recommended by eva
 - https://color.adobe.com/
