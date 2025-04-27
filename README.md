@@ -1,5 +1,6 @@
-# design
-design notes for blog
+# Design
+
+Design notes for blog
 
 
 # Hyperlinks
